@@ -1,6 +1,6 @@
 # gulimall-vue
 
-- gulimall-vue基于renren-fast-vue开发，由vue、element-ui进行项目构建，实现[gulimall](https://gitee.com/renrenio/renren-fast)后台管理系统的前端功能
+- gulimall-vue基于renren-fast-vue开发，由vue、element-ui进行项目构建，实现 [gulimall](https://gitee.com/chollima_zhou/gulimall) 后台管理系统的前端功能
 - 前后端分离，通过token进行数据交互，可独立部署
 - 主题定制，通过scss变量统一一站式定制
 - 动态菜单，通过菜单管理统一管理访问路由
