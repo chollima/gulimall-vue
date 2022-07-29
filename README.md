@@ -1,6 +1,6 @@
 # gulimall-vue
 
-- Gulimall-vue is developed based on renren-fast-vue, and the project is constructed by vue and element-ui to realize the front-end functions of the [gulimall](https://gitee.com/chollima_zhou/gulimall) background management system.
+- Gulimall-vue is developed based on renren-fast-vue, and the project is constructed by vue and element-ui to realize the front-end functions of the [gulimall](https://github.com/chollima/gulimall) background management system.
 - The front and back ends are separated, and data interaction is performed through tokens, which can be deployed independently.
 - Theme Customization: unified one-stop customization through SCSS variables.
 - Dynamic menu: unified management of access routes through menu management.
